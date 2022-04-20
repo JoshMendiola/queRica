@@ -1,0 +1,7 @@
+name: queRica
+author: PhilosophyWithJosh
+version: 1.0.0
+api-version: 1.16
+main: mcpc.PhilosophyWithJosh.queRica.Main
+description: randomizes the drops of blocks broken by the player
+commands:
