@@ -1,7 +1,5 @@
 package mcpc.PhilosophyWithJosh.queRica.commands;
 
-import java.util.concurrent.Executor;
-
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
